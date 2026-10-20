@@ -1,0 +1,7 @@
+{
+  "name": "agent-office",
+  "version": "0.1.0",
+  "description": "A live pixel-art office where every subagent Claude dispatches walks in, takes a desk and works",
+  "author": { "name": "Ali Mehmet Kolgu" },
+  "types": "./types/index.d.ts"
+}

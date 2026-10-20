@@ -1,0 +1,11 @@
+{
+  "name": "alimehmetk",
+  "owner": { "name": "Ali Mehmet Kolgu" },
+  "plugins": [
+    {
+      "name": "agent-office",
+      "source": "./",
+      "description": "A live pixel-art office where every subagent Claude dispatches walks in, takes a desk and works"
+    }
+  ]
+}
